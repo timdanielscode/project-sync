@@ -1,2 +1,2 @@
 # project-sync
-This is a small school project from a couple years ago. 
+School project 2018 : a project where consultants can fill out a cost declaration form to declare certain costs
