@@ -3,3 +3,5 @@ School project 2018 : a project where consultants can fill out a cost declaratio
 
 test indyPHP downloads
 ![GitHub all releases](https://img.shields.io/github/downloads/timdanielscode/IndyPHP/total?color=blue&logo=Github&style=flat-square)
+
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/timdanielscode/IndyPHP/v0.2.1/total)
